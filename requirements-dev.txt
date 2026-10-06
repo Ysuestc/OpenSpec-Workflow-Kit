@@ -1,0 +1,2 @@
+# YAML and skill manifest validation only; template application uses stdlib.
+PyYAML>=6.0,<7
